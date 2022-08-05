@@ -12,7 +12,7 @@
     "handler": "python",
     "image": "dodona/dodona-python",
     "time_limit": 10,
-    "memory_limit": 10000000,
+    "memory_limit": 100000000,
     "network_enabled": false
   },
   "labels": ["voorbeeld", "eenvoudige oefening"],
