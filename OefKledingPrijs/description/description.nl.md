@@ -1,5 +1,5 @@
 # Prijs Kledingstuk
-Je vraagt de prijs van een kledingstukop. Als de prijs minder is dan 100 euro, dan betaal je 3,90 euro vezendingskosten extra. Toon de prijs die uiteindelijk betaald moet worden.
+Je vraagt de prijs van een kledingstuk op. Als de prijs minder is dan 100 euro, dan betaal je 3,90 euro vezendingskosten extra. Toon de prijs die uiteindelijk betaald moet worden.
 
 ```commandline
 prijs = 
