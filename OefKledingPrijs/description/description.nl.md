@@ -5,5 +5,5 @@ Je vraagt de prijs van een kledingstukop. Als de prijs minder is dan 100 euro, d
 prijs = 
 if prijs
     prijs =
- print( 
+print( 
 ```
