@@ -9,6 +9,7 @@
     }
   },
   "evaluation": {
+    "pythia_judge": "output",
     "handler": "python",
     "image": "dodona/dodona-python",
     "time_limit": 10,
