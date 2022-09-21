@@ -4,7 +4,7 @@
   "access": "public",
   "description": {
     "names": {
-      "nl": "Volume Kubus",
+      "nl": "Slecht wachtwoord",
       "en": "Example exercise"
     }
   },
@@ -16,6 +16,6 @@
     "memory_limit": 100000000,
     "network_enabled": false
   },
-  "labels": ["voorbeeld", "eenvoudige oefening"],
+  "labels": ["input", "string","concatenatie"],
   "contact": "Lucie Martin lucie.martin@rhizo.be"
 }
