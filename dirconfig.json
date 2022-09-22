@@ -2,7 +2,7 @@
   "access": "private",
   "evaluation": {
     "handler": "python",
-    "time_limit": 15,
+    "time_limit": 42,
     "memory_limit": 100000000
   },
   "programming_language": "python",
