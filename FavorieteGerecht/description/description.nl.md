@@ -1,4 +1,4 @@
-# Volume Kubus
+# Favoriete gerecht
 
 Vraag aan de gebruiker wat zijn favoriete maaltijd is.
 
