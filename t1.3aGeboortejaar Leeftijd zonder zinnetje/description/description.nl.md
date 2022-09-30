@@ -6,10 +6,10 @@ Vraag aan de gebruiker wat het huidige jaartal is.
 Laat de leeftijd verschijnen die de persoon dit kalenderjaar bereikt.
 
 ### Voorbeeld
-**Input :**
+**Invoer :**
 
     1998
     2022
-**Output :**
+**Uitvoer :**
 
     24
