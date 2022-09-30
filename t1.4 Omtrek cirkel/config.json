@@ -4,7 +4,7 @@
   "access": "public",
   "description": {
     "names": {
-      "nl": "Favoriete gerecht",
+      "nl": "Omtrek cirkel",
       "en": "Example exercise"
     }
   },
@@ -16,6 +16,6 @@
     "memory_limit": 100000000,
     "network_enabled": false
   },
-  "labels": ["voorbeeld", "eenvoudige oefening","input","print"],
+  "labels": ["float", "eenvoudige oefening","input","print"],
   "contact": "Lucie Martin lucie.martin@rhizo.be"
 }
