@@ -10,6 +10,7 @@ Laat de leeftijd verschijnen die de persoon dit kalenderjaar bereikt.
 
     1998
     2022
+    
 **Uitvoer :**
 
     24
