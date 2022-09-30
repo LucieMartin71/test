@@ -6,10 +6,10 @@ Laat de boodschap verschijnen :”Jouw favoriete gerecht is … . Dat lijkt me w
 
 ### Voorbeeld
 
-**Input :**
+**Invoer :**
 
     oma's spaghetti
 
-**Output :**
+**Uitvoer :**
 
     Jouw favoriete gerecht is oma's spaghetti. Dat lijkt me wel lekker!
