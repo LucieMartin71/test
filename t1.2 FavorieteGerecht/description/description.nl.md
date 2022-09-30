@@ -4,10 +4,12 @@ Vraag aan de gebruiker wat zijn favoriete maaltijd is.
 
 Laat de boodschap verschijnen :”Jouw favoriete gerecht is … . Dat lijkt me wel lekker!”
 
-###Voorbeeld
+### Voorbeeld
 
 **Input :**
-oma's spaghetti
+
+    oma's spaghetti
 
 **Output :**
-Jouw favoriete gerecht is oma's spaghetti. Dat lijkt me wel lekker!
+
+    Jouw favoriete gerecht is oma's spaghetti. Dat lijkt me wel lekker!

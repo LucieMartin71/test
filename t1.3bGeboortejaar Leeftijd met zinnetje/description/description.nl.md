@@ -5,3 +5,10 @@ Vraag aan de gebruiker wat het huidige jaartal is.
 
 Laat de boodschap verschijnen :”In dit kalenderjaar word jij ... jaar.”
 
+### Voorbeeld
+**Input :**
+    1998
+    2024
+**Output :**
+
+    In dit kalenderjaar word jij 26 jaar.
