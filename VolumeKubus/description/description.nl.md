@@ -7,6 +7,9 @@ Laat de boodschap verschijnen :”Een kubus met zijde … cm heeft een volume va
 
 ### Voorbeeld
 **Input :**
+
     4
+
 **Output :**
+
     Een kubus met zijde 4 cm heeft een volume van 64 kubieke cm.    
