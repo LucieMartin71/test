@@ -5,6 +5,8 @@ Als er dan nog leerlingen over zijn, moeten deze bij een groepje van 3 aansluite
 Schrijf een programma dat het aantal leerlingen in de klas vraagt aan de gebruiker. 
 Het programma berekent dan hoeveel groepjes van 3 leerlingen en hoeveel groepjes van 4 er gemaakt worden. Dit wordt in een antwoordzin afgedrukt. Lees de voorbeelden voor die antwoordzin.
 
+Je programma moet enkel werken voor aantal leerlingen van minstens 3.
+
 
 ### Voorbeelden
 
