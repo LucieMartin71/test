@@ -4,7 +4,7 @@
   "access": "public",
   "description": {
     "names": {
-      "nl": "Volume Kubus",
+      "nl": "zijde Kubus",
       "en": "Example exercise"
     }
   },
@@ -16,6 +16,6 @@
     "memory_limit": 100000000,
     "network_enabled": false
   },
-  "labels": ["voorbeeld", "eenvoudige oefening"],
+  "labels": ["voorbeeld", "worteltrekking],
   "contact": "Lucie Martin lucie.martin@rhizo.be"
 }
