@@ -4,7 +4,7 @@ Vraag aan de gebruiker wat de straal van een cirkel is. De straal mag een decima
 
 Laat de oppervlakte van de cirkel verschijnen.
 
-Zoals je weet is de oppervlakte O = 2.pi.r
+Zoals je weet is de oppervlakte O = pi.r²
 
 Begin je programma met import math
 De waarde van pi kun je dan oproepen als math.pi
