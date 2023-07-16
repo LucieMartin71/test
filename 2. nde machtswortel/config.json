@@ -14,7 +14,7 @@
 		"memory_limit": 100000000,
 		"network_enabled": false
 	},
-	"labels": [machtsverheffing
+	"labels": ["machtsverheffing"
 	],
 	"contact": "Lucie Martin lucie.martin@rhizo.be",
 	"internals": {
