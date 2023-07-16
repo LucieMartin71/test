@@ -1,4 +1,4 @@
-# Titel
+# nde machtswortel
 
 Schrijf een programma dat de n-de machtswortel van een getal berekent. Vraag aan de gebruiker de wortelexponent. Vraag ook van welk getal hij de n-de machtswortel wil trekken.
 Geef als resultaat de n-de machtswortel van dit getal.
