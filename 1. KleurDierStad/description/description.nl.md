@@ -3,6 +3,14 @@ Vraag aan de gebruiker wat zijn lievelingskleur is, wat zijn lievelingsdier is e
 
 Laat een woord verschijnen dat deze 3 antwoorden aan mekaar verbindt.
 
-Voorbeeld : geel hond Kortrijk
-Antwoord : geelhondKortrijk
+### Voorbeelden
+
+**Invoer :**
+    geel 
+    hond 
+    Kortrijk
+
+
+**Uitvoer :** 
+    geelhondKortrijk
 
