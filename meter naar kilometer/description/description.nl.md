@@ -1,6 +1,6 @@
 # meter naar kilometer
 
-Maak een functie die een afstand in meter omzet naar kilometer.
+Maak een functie meter_naar_kilometer die een afstand in meter omzet naar kilometer.
 
 
 
