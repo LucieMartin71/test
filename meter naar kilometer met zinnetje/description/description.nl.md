@@ -8,7 +8,7 @@ Maak een functie die een afstand in meter omzet naar kilometer. De teruggegeven 
 
 **Input:**
 	
-	71471
+	meter_naar_kilometer(71471)
 
 **Output:**
 	
@@ -20,7 +20,7 @@ Maak een functie die een afstand in meter omzet naar kilometer. De teruggegeven 
 
 **Input:**
 	
-	34
+	meter_naar_kilometer(34)
 
 **Output:**
 	
