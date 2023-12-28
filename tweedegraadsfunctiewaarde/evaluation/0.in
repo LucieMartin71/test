@@ -1,0 +1,60 @@
+>>> functiewaarde(37)
+5518
+
+>>> functiewaarde(4)
+-7484
+
+>>> functiewaarde(1)
+-40048
+
+>>> functiewaarde(5)
+17034
+
+>>> functiewaarde(-39)
+-15959
+
+>>> functiewaarde(-5)
+-11003
+
+>>> functiewaarde(-3)
+-9361
+
+>>> functiewaarde(4)
+7317
+
+>>> functiewaarde(90)
+2448
+
+>>> functiewaarde(-5)
+20162
+
+>>> functiewaarde(5)
+-2655
+
+>>> functiewaarde(2)
+7265
+
+>>> functiewaarde(65)
+22779
+
+>>> functiewaarde(4)
+-2736
+
+>>> functiewaarde(2)
+-8713
+
+>>> functiewaarde(4)
+-392
+
+>>> functiewaarde(56)
+-4221
+
+>>> functiewaarde(-5)
+956
+
+>>> functiewaarde(-5)
+1313
+
+>>> functiewaarde(1)
+-5628
+
