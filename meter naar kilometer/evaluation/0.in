@@ -1,20 +1,60 @@
-4377
-35707
-44525
-29083
-92257
-69992
-7149
-69258
-35013
-59291
-31966
-38834
-3481
-77714
-62590
-29637
-29571
-85742
-98647
-20749
+>>> meter_naar_kilometer(24377)
+24.377
+
+>>> meter_naar_kilometer(35707)
+35.707
+
+>>> meter_naar_kilometer(44525)
+44.525
+
+>>> meter_naar_kilometer(29083)
+29.083
+
+>>> meter_naar_kilometer(92257)
+92.257
+
+>>> meter_naar_kilometer(69992)
+69.992
+
+>>> meter_naar_kilometer(7149)
+7.149
+
+>>> meter_naar_kilometer(69258)
+69.258
+
+>>> meter_naar_kilometer(35013)
+35.013
+
+>>> meter_naar_kilometer(59291)
+59.291
+
+>>> meter_naar_kilometer(31966)
+31.966
+
+>>> meter_naar_kilometer(38834)
+38.834
+
+>>> meter_naar_kilometer(3481)
+3.481
+
+>>> meter_naar_kilometer(77714)
+77.714
+
+>>> meter_naar_kilometer(62590)
+62.59
+
+>>> meter_naar_kilometer(29637)
+29.637
+
+>>> meter_naar_kilometer(29571)
+29.571
+
+>>> meter_naar_kilometer(85742)
+85.742
+
+>>> meter_naar_kilometer(98647)
+98.647
+
+>>> meter_naar_kilometer(20749)
+20.749
+

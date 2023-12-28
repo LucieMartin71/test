@@ -9,7 +9,7 @@
 		}
 	},
 	"evaluation": {
-		"pythia_judge": "output",
+		"pythia_judge": "doctest",
 		"time_limit": 62,
 		"memory_limit": 100000000,
 		"network_enabled": false
