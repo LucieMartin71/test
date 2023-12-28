@@ -1,6 +1,6 @@
 >>> functiewaarde(37,4,1,5)
 5518
->>>functiewaarde(-39,-5,-3,4)
+>>> functiewaarde(-39,-5,-3,4)
 -7484
 >>> functiewaarde(90,-5,5,2)
 -40048
