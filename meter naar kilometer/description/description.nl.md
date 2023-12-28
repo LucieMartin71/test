@@ -8,7 +8,7 @@ Maak een functie meter_naar_kilometer die een afstand in meter omzet naar kilome
 
 **Input:**
 	
-	2134
+	meter_naar_kilometer(2134)
 
 **Output:**
 	
@@ -20,7 +20,7 @@ Maak een functie meter_naar_kilometer die een afstand in meter omzet naar kilome
 
 **Input:**
 	
-	34
+	meter_naar_kilometer(34)
 
 **Output:**
 	
