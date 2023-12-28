@@ -1,0 +1,60 @@
+>>> percentage(80)
+0.0
+
+>>> percentage(34)
+57.5
+
+>>> percentage(30)
+62.5
+
+>>> percentage(42)
+47.5
+
+>>> percentage(32)
+60.0
+
+>>> percentage(36)
+55.0
+
+>>> percentage(45)
+43.75
+
+>>> percentage(43)
+46.25
+
+>>> percentage(45)
+43.75
+
+>>> percentage(34)
+57.5
+
+>>> percentage(50)
+37.5
+
+>>> percentage(50)
+37.5
+
+>>> percentage(30)
+62.5
+
+>>> percentage(42)
+47.5
+
+>>> percentage(59)
+26.25
+
+>>> percentage(60)
+25.0
+
+>>> percentage(50)
+37.5
+
+>>> percentage(65)
+18.75
+
+>>> percentage(57)
+28.75
+
+>>> percentage(46)
+42.5
+
