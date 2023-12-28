@@ -1,0 +1,60 @@
+>>> bedrag_na_korting(59)
+32.8
+
+>>> bedrag_na_korting(60)
+32.0
+
+>>> bedrag_na_korting(19)
+64.8
+
+>>> bedrag_na_korting(20)
+64.0
+
+>>> bedrag_na_korting(51)
+39.2
+
+>>> bedrag_na_korting(53)
+37.6
+
+>>> bedrag_na_korting(65)
+28.0
+
+>>> bedrag_na_korting(40)
+48.0
+
+>>> bedrag_na_korting(33)
+53.6
+
+>>> bedrag_na_korting(61)
+31.200000000000003
+
+>>> bedrag_na_korting(69)
+24.799999999999997
+
+>>> bedrag_na_korting(21)
+63.2
+
+>>> bedrag_na_korting(35)
+52.0
+
+>>> bedrag_na_korting(16)
+67.2
+
+>>> bedrag_na_korting(5)
+76.0
+
+>>> bedrag_na_korting(30)
+56.0
+
+>>> bedrag_na_korting(15)
+68.0
+
+>>> bedrag_na_korting(39)
+48.8
+
+>>> bedrag_na_korting(55)
+36.0
+
+>>> bedrag_na_korting(57)
+34.4
+
