@@ -1,6 +1,6 @@
 # sinus
 
-Maak een functie 'sinus' die als eerste argument de lengte van de overstaande rechthoekszijde krijgt en als tweede argument de lengte van de schuine zijde. De functie geeft de sinus terug van de scherpe hoek.
+Maak een functie sinus(o,s) die als eerste argument de lengte van de overstaande rechthoekszijde krijgt en als tweede argument de lengte van de schuine zijde. De functie geeft de sinus terug van de scherpe hoek.
 
 
 
