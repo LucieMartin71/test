@@ -1,6 +1,6 @@
 # tweedegraadsfunctiewaarde
 
-Maak een functie 'functiewaarde' die als argumenten achtereenvolgens de x-waarde en de coëfficiënten a,b en c van de tweedegraadsfunctie f(x)=ax²+bx+c gebruikt om de functiewaarde van deze x-waarde te berekenen. 
+Maak een functie functiewaarde(x,a,b,c) die als argumenten achtereenvolgens de x-waarde en de coëfficiënten a,b en c van de tweedegraadsfunctie f(x)=ax²+bx+c gebruikt om de functiewaarde van deze x-waarde te berekenen. 
 
 
 
