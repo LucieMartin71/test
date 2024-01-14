@@ -1,0 +1,30 @@
+>>> tientallen(6)
+31.5
+
+>>> tientallen(4)
+21.0
+
+>>> tientallen(18)
+94.5
+
+>>> tientallen(11)
+57.75
+
+>>> tientallen(0)
+0
+
+>>> tientallen(4)
+21.0
+
+>>> tientallen(15)
+78.75
+
+>>> tientallen(12)
+63.0
+
+>>> tientallen(3)
+17.85
+
+>>> tientallen(2)
+14
+
