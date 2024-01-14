@@ -1,0 +1,45 @@
+>>> tientallen(983417)
+1
+
+>>> tientallen(186825)
+2
+
+>>> tientallen(524750)
+5
+
+>>> tientallen(269710)
+1
+
+>>> tientallen(848859)
+5
+
+>>> tientallen(985582)
+8
+
+>>> tientallen(797503)
+0
+
+>>> tientallen(942462)
+6
+
+>>> tientallen(829976)
+7
+
+>>> tientallen(377503)
+0
+
+>>> tientallen(81203)
+0
+
+>>> tientallen(94891)
+9
+
+>>> tientallen(104057)
+5
+
+>>> tientallen(737698)
+9
+
+>>> tientallen(124405)
+0
+

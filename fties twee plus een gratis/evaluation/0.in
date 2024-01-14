@@ -1,0 +1,45 @@
+>>> totaal_bedrag(281, 45, 143)
+424
+
+>>> totaal_bedrag(414, 12, 74)
+488
+
+>>> totaal_bedrag(109, 31, 113)
+222
+
+>>> totaal_bedrag(373, 31, 113)
+486
+
+>>> totaal_bedrag(180, 9, 38)
+218
+
+>>> totaal_bedrag(142, 14, 34)
+176
+
+>>> totaal_bedrag(280, 38, 23)
+318
+
+>>> totaal_bedrag(116, 46, 86)
+202
+
+>>> totaal_bedrag(252, 4, 104)
+356
+
+>>> totaal_bedrag(349, 32, 140)
+489
+
+>>> totaal_bedrag(192, 14, 76)
+268
+
+>>> totaal_bedrag(478, 19, 76)
+554
+
+>>> totaal_bedrag(130, 40, 96)
+226
+
+>>> totaal_bedrag(215, 48, 43)
+263
+
+>>> totaal_bedrag(140, 6, 67)
+207
+
