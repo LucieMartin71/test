@@ -1,30 +1,30 @@
->>> tientallen(6)
+>>> finaal_bedrag(6)
 31.5
 
->>> tientallen(4)
+>>> finaal_bedrag(4)
 21.0
 
->>> tientallen(18)
+>>> finaal_bedrag(18)
 94.5
 
->>> tientallen(11)
+>>> finaal_bedrag(11)
 57.75
 
->>> tientallen(0)
+>>> finaal_bedrag(0)
 0
 
->>> tientallen(4)
+>>> finaal_bedrag(4)
 21.0
 
->>> tientallen(15)
+>>> finaal_bedrag(15)
 78.75
 
->>> tientallen(12)
+>>> finaal_bedrag(12)
 63.0
 
->>> tientallen(3)
+>>> finaal_bedrag(3)
 17.85
 
->>> tientallen(2)
+>>> finaal_bedrag(2)
 14
 
