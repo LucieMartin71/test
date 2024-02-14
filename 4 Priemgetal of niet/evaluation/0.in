@@ -1,0 +1,69 @@
+>>> IsPriem(2)
+True
+
+>>> IsPriem(11)
+True
+
+>>> IsPriem(121)
+False
+
+>>> IsPriem(8555)
+False
+
+>>> IsPriem(9799)
+False
+
+>>> IsPriem(6801)
+False
+
+>>> IsPriem(958)
+False
+
+>>> IsPriem(5550)
+False
+
+>>> IsPriem(3753)
+False
+
+>>> IsPriem(9364)
+False
+
+>>> IsPriem(2009)
+False
+
+>>> IsPriem(3589)
+False
+
+>>> IsPriem(1141)
+False
+
+>>> IsPriem(3407)
+True
+
+>>> IsPriem(3365)
+False
+
+>>> IsPriem(1867)
+True
+
+>>> IsPriem(802)
+False
+
+>>> IsPriem(4185)
+False
+
+>>> IsPriem(8256)
+False
+
+>>> IsPriem(5379)
+False
+
+>>> IsPriem(5319)
+False
+
+>>> IsPriem(1975)
+False
+
+>>> IsPriem(1331)
+False
+

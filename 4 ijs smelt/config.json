@@ -1,0 +1,25 @@
+{
+	"type": "exercise",
+	"programming_language": "python",
+	"access": "public",
+	"description": {
+		"names": {
+			"nl": "ijs smelt",
+			"en": ""
+		}
+	},
+	"evaluation": {
+		"pythia_judge": "output",
+		"time_limit": 62,
+		"memory_limit": 100000000,
+		"network_enabled": false
+	},
+	"labels": [
+		"eenvoudige while"
+	],
+	"contact": "Lucie Martin lucie.martin@rhizo.be",
+	"internals": {
+		"token": "yhxQrPzWTwH9UrBg8KBPjBV-RhKIffieQw3SnhRSCRN4paUmntHru4kf-ErYBihe",
+		"_info": "These fields are used for internal bookkeeping in Dodona, please do not change them."
+	}
+}
