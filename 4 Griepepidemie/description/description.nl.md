@@ -12,7 +12,7 @@ Schrijf een functie MaxGriep(aantal_zieken_vandaag) die berekent na hoeveel dage
 
 **Input:**
 	
-	22
+	MaxGriep(22)
 
 **Output:**
 	
@@ -24,7 +24,7 @@ Schrijf een functie MaxGriep(aantal_zieken_vandaag) die berekent na hoeveel dage
 
 **Input:**
 	
-	74
+	MaxGriep(75)
 
 **Output:**
 	
