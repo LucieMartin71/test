@@ -1,0 +1,63 @@
+>>> MaxGriep(74)
+1
+
+>>> MaxGriep(22)
+17
+
+>>> MaxGriep(12)
+25
+
+>>> MaxGriep(2)
+48
+
+>>> MaxGriep(9)
+29
+
+>>> MaxGriep(13)
+24
+
+>>> MaxGriep(23)
+17
+
+>>> MaxGriep(13)
+24
+
+>>> MaxGriep(24)
+16
+
+>>> MaxGriep(8)
+30
+
+>>> MaxGriep(14)
+23
+
+>>> MaxGriep(5)
+37
+
+>>> MaxGriep(30)
+13
+
+>>> MaxGriep(17)
+21
+
+>>> MaxGriep(15)
+22
+
+>>> MaxGriep(26)
+15
+
+>>> MaxGriep(1)
+57
+
+>>> MaxGriep(28)
+14
+
+>>> MaxGriep(16)
+21
+
+>>> MaxGriep(11)
+26
+
+>>> MaxGriep(9)
+29
+
