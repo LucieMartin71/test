@@ -20,5 +20,5 @@ A f s c h e i d
 python input without prompt: true
 block count: multi
 input block size: 1
-output block size: 8
+output block size: 1
 show line numbers: false
