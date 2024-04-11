@@ -15,11 +15,5 @@ Schrijf een programma dat een woord vraagt aan de gebruiker. Vervolgens spelt he
 
 **Output:**
 	
-	V
-	e
-	r
-	d
-	a
-	c
-	h
-	t
+	V e r d a c h t 
+	
