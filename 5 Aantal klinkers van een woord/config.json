@@ -4,8 +4,8 @@
 	"access": "public",
 	"description": {
 		"names": {
-			"nl": "Aantal letters van een woord",
-			"en": "Number of characters"
+			"nl": "Aantal klinkers van een woord",
+			"en": "Number of vowels"
 		}
 	},
 	"evaluation": {
